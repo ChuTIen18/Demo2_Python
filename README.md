@@ -7,7 +7,7 @@ Dự án **demo2** được xây dựng nhằm mục đích:
 - Tóm gọn thông tin bài hát bằng AI
 - Kiểm tra tính toàn vẹn và trùng lặp của dữ liệu sau xử lý
 
-Dự án sử dụng **Python** và *Jupyter Notebook**.
+Dự án sử dụng **Python** và **Jupyter Notebook**.
 
 ---
 
